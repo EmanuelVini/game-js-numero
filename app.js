@@ -1,0 +1,1 @@
+alert('O jogo começou');
